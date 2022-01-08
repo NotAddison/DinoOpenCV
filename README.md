@@ -19,10 +19,11 @@
 
 
 ### Virtual Environment (venv)
+```
 	Install >> pip install virtualenv
 	create >> cd to folder, python -m venv (name)
 	Activation >> .\(name)\Scripts\activate
-
+```
 
 ### Installing Libaries
 * OpenCV (cv2, Computer Vision):
