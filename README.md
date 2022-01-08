@@ -1,7 +1,18 @@
-# DinoOpenCV   
-Link to game : chrome://dino/			   
-By: Chua Jie Yi, Addison
-
+# DinoOpenCV
+```
++==================================================================+
+|   ___   _ __              ___ __   __       ___   _              |
+|  / _ \ | '_ \ ___  _ _   / __|\ \ / /      |   \ (_) _ _   ___   |
+| | (_) || .__// -_)| ' \ | (__  \   /       | |) || || ' \ / _ \  |
+|  \___/ |_|   \___||_||_| \___|  \_/        |___/ |_||_||_|\___/  |
+|                                                                  |
+|   Link to game : chrome://dino/   	               By: Addison |
++==================================================================+
+```  
+-----------------------------------
+## TOC   
+ 
+-----------------------------------
 ### Configure PIP (optional)
 
 
@@ -45,6 +56,8 @@ import pyautogui as pag
 
 -----------------------------------
 Misc : <br>
-Pyautogui vs PIL.ImageGrab : <br>
->pyautogui captures full screen, ImageGrab can grab a specific part of a screen.
+<details>
+    <summary><b>Pyautogui vs PIL.ImageGrab</b></summary>
+    <p>pyautogui captures the full screen, ImageGrab can capture a <u>specific part</u> of a screen.</p>
+</details>
 
