@@ -20,9 +20,9 @@
 
 ### Virtual Environment (venv)
 ```
-	Install >> pip install virtualenv
-	create >> cd to folder, python -m venv (name)
-	Activation >> .\(name)\Scripts\activate
+Install >> pip install virtualenv
+create >> cd to folder, python -m venv (name)
+Activation >> .\(name)\Scripts\activate
 ```
 
 ### Installing Libaries
