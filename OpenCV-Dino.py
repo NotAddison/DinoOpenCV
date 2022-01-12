@@ -1,8 +1,9 @@
+## Made By Chua Jie Yi, Addison
+
 #OpenCV
 import cv2 as cv
 import numpy as np
 from time import time,sleep
-
 
 #Screencap (Can use win32 to capture screenfaster ; more complex (bitmap & stuff))
 from PIL import ImageGrab
@@ -31,7 +32,7 @@ while True:
         print("Found Cactus")
         cactusFound = True
     
-    # Keyboard Input
+    # Keyboard Input (if cactus is found; emulate key press)
     if cactusFound == True:
         pag.press('space')
 
