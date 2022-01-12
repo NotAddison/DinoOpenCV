@@ -10,11 +10,9 @@
 +==================================================================+
 ```  
 -----------------------------------
-## TOC   
- 
------------------------------------
-### Configure PIP (optional)
 
+### Configure PIP (optional)
+- [Configure Pyhon](https://datatofish.com/add-python-to-windows-path/)
 
 
 
@@ -29,7 +27,7 @@ Activation >> .\(name)\Scripts\activate
 * OpenCV (cv2, Computer Vision):
 	>pip install opencv-python
 
-* Numpy (Math)
+* Numpy (Math ; array)
     >pip install numpy
 
 * Pillow (Screencap)
@@ -54,11 +52,17 @@ import pyautogui as pag
 ```
 
 
-
 -----------------------------------
-Misc : <br>
+### Known problems : <br>
 <details>
-    <summary><b>Pyautogui vs PIL.ImageGrab</b></summary>
-    <p>pyautogui captures the full screen, ImageGrab can capture a <u>specific part</u> of a screen.</p>
+    <summary><b>FPS tanking when cactus is detected</b></summary>
+    <p>I have no idea how to solve this lol</p>
 </details>
+
+<details>
+    <summary><b>Dino Jump Timing (offset)</b></summary>
+    <p>Possibly due to variation in the game speed & FPS drops causing delays in the template matching algo ; resulting in delayed input</p>
+</details>
+  
+
 
