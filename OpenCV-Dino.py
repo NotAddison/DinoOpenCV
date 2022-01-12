@@ -31,11 +31,7 @@ while True:
     cactusFound = False
     if max_val >= threshold:
         print("Found Cactus")
-        cactusFound = True
-    
-    # Keyboard Input (if cactus is found; emulate key press)
-    if cactusFound == True:
-        pag.press('space')
+        pag.press('space') # Keyboard Input (if cactus is found; emulate key press)
 
 
     # FPS (How many time segments can fit within 1 second)
