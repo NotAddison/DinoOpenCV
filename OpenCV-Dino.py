@@ -5,7 +5,7 @@ from time import time,sleep
 
 
 #Screencap (Can use win32 to capture screenfaster ; more complex (bitmap & stuff))
-from PIL import Image, ImageGrab
+from PIL import ImageGrab
 
 #Keyboard Emulation
 import pyautogui as pag
