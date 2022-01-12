@@ -64,5 +64,10 @@ import pyautogui as pag
     <p>Possibly due to variation in the game speed & FPS drops causing delays in the template matching algo ; resulting in delayed input</p>
 </details>
   
-
+----------------------------------
+### Documentations :
+<details>
+    <summary><b>Good YouTube Tutorial 👍</b></summary>
+    [OpenCV Object Detection](https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI&index=1)
+</details>
 
