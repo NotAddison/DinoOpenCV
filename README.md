@@ -39,15 +39,15 @@ Activation >> .\(name)\Scripts\activate
 
 ### Importing Libaries
 ```
-#OpenCV (CV)
-import cv2 
+# OpenCV
+import cv2 as cv
 import numpy as np
-import time
+from time import time
 
-#Pillow (Screencap)
-from PIL import Image, ImageGrab
+# Pillow (Screencap)
+from PIL import ImageGrab
 
-#Pyautogui (Input)
+# Pyautogui (Input)
 import pyautogui as pag
 ```
 
@@ -67,7 +67,8 @@ import pyautogui as pag
 ----------------------------------
 ### Documentations :
 <b>Good YouTube Tutorial 👍:</b><br>
-- [OpenCV Object Detection](https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI&index=1) <br>
+- [OpenCV Template matching Algo](https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html)
+- [OpenCV Object Detection Tutorial](https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI&index=1) <br>
 - [PyAutoGui Screen & Mouse Position](https://pyautogui.readthedocs.io/en/latest/mouse.html)
 - [win32 Fast capture](https://www.youtube.com/watch?v=WymCpVUPWQ4)
 
