@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Addison\Desktop\School\Personal Projects\OpenCV Dino\venv"
+VIRTUAL_ENV="C:\Users\User\Desktop\DinoOpenCV\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
