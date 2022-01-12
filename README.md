@@ -69,5 +69,6 @@ import pyautogui as pag
 <details>
     <summary><b>Good YouTube Tutorial 👍</b></summary>
     [OpenCV Object Detection](https://www.youtube.com/watch?v=KecMlLUuiE4&list=PL1m2M8LQlzfKtkKq2lK5xko4X-8EZzFPI&index=1)
+    [PyAutoGui Screen & Mouse Position](https://pyautogui.readthedocs.io/en/latest/mouse.html)
 </details>
 
