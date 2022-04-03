@@ -12,7 +12,7 @@
 -----------------------------------
 
 ### Configure PIP (optional)
-- [Configure Pyhon](https://datatofish.com/add-python-to-windows-path/)
+- [Configure Python](https://datatofish.com/add-python-to-windows-path/)
 
 
 
